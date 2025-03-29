@@ -21,7 +21,7 @@ Brief repository files description:
 
 environment.yml: Conda file with environment specifications.
 
-1d_burgers_coupled.py: Main file that applies OpInf-sFOM on the simulation data.
+1d_burgers_coupled.py: Main script that applies OpInf-sFOM on the simulation data.
 
 data_1d_utils.py: Subroutines for data processing e.g. training/testing splitting, domain partitioning.
 
