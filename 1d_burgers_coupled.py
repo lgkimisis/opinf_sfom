@@ -1,5 +1,5 @@
 """
-non-intrusive model reduction for localized dynamics:
+Non-intrusive model reduction for localized dynamics:
 OpInf-sFOM coupling for periodic, 1D Burgers' equation.
 """
 import numpy as np
