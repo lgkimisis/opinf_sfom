@@ -19,6 +19,7 @@ Brief repository files description:
 
 %----- OpInf-sFOM inference -----%
 
+environment.yml: Conda file with environment specifications.
 
 1d_burgers_coupled.py: Main file that applies OpInf-sFOM on the simulation data.
 
